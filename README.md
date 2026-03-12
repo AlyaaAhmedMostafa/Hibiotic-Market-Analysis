@@ -70,7 +70,7 @@ The **5,300 dispensing encounters** represent a highly concentrated transaction 
 
 ---
 
-## 📈 Temporal Trends & Forecasting
+##  Temporal Trends & Forecasting
 
 ### Year-over-Year Stability (2023–2025)
 
