@@ -1,4 +1,4 @@
-# 💊 Hibiotic — Sales Performance & Market Intelligence Report
+#  Hibiotic — Sales Performance & Market Intelligence Report
 ### Reporting Period: 1 January 2023 – 31 December 2025 · With 2026 Projections
 
 <br/>
@@ -11,7 +11,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 1. [Executive Summary](#-executive-summary)
 2. [High-Level Performance Overview](#-high-level-performance-overview)
@@ -25,7 +25,7 @@
 
 ---
 
-## 🧬 Executive Summary
+##  Executive Summary
 
 The Hibiotic portfolio generated **2.13 billion EGP** in total revenue across **21.9 million units sold** over the three-year analysis period (2023–2025). The brand exhibits a highly clinical, prescription-driven profile, with sales heavily concentrated in specific pack sizes and higher price points.
 
@@ -48,7 +48,7 @@ Two defining characteristics emerge from the data:
 
 ---
 
-## 📊 High-Level Performance Overview
+##  High-Level Performance Overview
 
 ### Revenue Architecture
 
@@ -126,7 +126,7 @@ Projected Quarterly Revenue Trajectory
 
 ---
 
-## 🏪 Dispensing & Distribution Channels
+##  Dispensing & Distribution Channels
 
 ### Prescription vs. OTC Split
 
