@@ -153,7 +153,7 @@ The distribution landscape shows a healthy, competitive balance among the top fo
 
 | Distributor | Total Revenue | Realised Price/Unit | Efficiency vs. Avg |
 |---|---|---|---|
-| **PharmaLink** | 427.1M EGP | **100 EGP** | **+6.4% above avg** ✅ |
+| **PharmaLink** | 427.1M EGP | **100 EGP** | **+6.4% above avg**  |
 | Nile Pharma | 442.2M EGP | 96 EGP | +2.1% above avg |
 | Delta Med | 424.7M EGP | 95 EGP | +1.1% above avg |
 | Astra | ~420M EGP | 95 EGP | +1.1% above avg |
